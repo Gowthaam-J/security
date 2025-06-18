@@ -8,11 +8,12 @@ Create a new Git branch and switch to it.
 
 **Base Model Output:**
 ```
+```
 1. Open a terminal window.
 2. Run the following command to create a new Git commit:
-   ```
-   git commit -m "Adding feature"
-   ```
+```
+git commit -m "Adding feature"
+   
 
    This command will create a new commit with a message that explains the purpose of the change.
 
